@@ -1,4 +1,4 @@
-resource "newrelic_synthetics_monitor" "monitor" {
+resource "newrelic_synthetics_monitor" "himani_monitorr" {
   
   status           = "ENABLED"
   name            =  "simple_monitor"
